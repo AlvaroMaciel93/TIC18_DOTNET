@@ -1,0 +1,15 @@
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.csproj.AssemblyReference.cache
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.AssemblyInfoInputs.cache
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.AssemblyInfo.cs
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.csproj.CoreCompileInputs.cache
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/bin/Debug/net7.0/Aula
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/bin/Debug/net7.0/Aula.deps.json
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/bin/Debug/net7.0/Aula.runtimeconfig.json
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/bin/Debug/net7.0/Aula.dll
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/bin/Debug/net7.0/Aula.pdb
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.dll
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/refint/Aula.dll
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.pdb
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/Aula.genruntimeconfig.cache
+/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/Debug/net7.0/ref/Aula.dll

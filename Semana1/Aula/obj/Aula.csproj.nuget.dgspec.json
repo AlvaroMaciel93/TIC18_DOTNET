@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alvaro-maciel-dantas/Documentos/NET/Semana1/Aula/Aula.csproj": {}
+    "/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/Aula.csproj": {}
   },
   "projects": {
-    "/home/alvaro-maciel-dantas/Documentos/NET/Semana1/Aula/Aula.csproj": {
+    "/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/Aula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alvaro-maciel-dantas/Documentos/NET/Semana1/Aula/Aula.csproj",
+        "projectUniqueName": "/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/Aula.csproj",
         "projectName": "Aula",
-        "projectPath": "/home/alvaro-maciel-dantas/Documentos/NET/Semana1/Aula/Aula.csproj",
+        "projectPath": "/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/Aula.csproj",
         "packagesPath": "/home/alvaro-maciel-dantas/.nuget/packages/",
-        "outputPath": "/home/alvaro-maciel-dantas/Documentos/NET/Semana1/Aula/obj/",
+        "outputPath": "/home/alvaro-maciel-dantas/Documentos/TIC18_DOTNET/Semana1/Aula/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alvaro-maciel-dantas/.nuget/NuGet/NuGet.Config"
